@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">SwachhConnect</string>
+    <string name="app_tagline">Smart Municipal Sanitation &amp; Segregation Platform</string>
+    
+    <!-- Roles -->
+    <string name="role_customer">Resident Portal</string>
+    <string name="role_worker">Sanitation Champion</string>
+    <string name="role_admin">Municipal Command</string>
+    <string name="switch_role">Switch Role</string>
+    <string name="switch_language">Language / மொழி</string>
+    
+    <!-- Customer Portal -->
+    <string name="customer_title">Today\'s Waste Collection</string>
+    <string name="pickup_status">Pickup Status</string>
+    <string name="status_pending">Awaiting Pickup</string>
+    <string name="status_completed">Waste Collected</string>
+    <string name="status_flagged">Improper Segregation Flagged</string>
+    <string name="scheduled_slot">Scheduled Slot</string>
+    <string name="doorstep_otp">Doorstep Verification OTP</string>
+    <string name="show_otp_to_worker">Show this 4-digit code to the sanitation champion</string>
+    <string name="refresh_otp">Refresh OTP</string>
+    <string name="assigned_champion">Assigned Sanitation Champion</string>
+    <string name="vehicle_number">Vehicle No</string>
+    <string name="call_champion">Call Worker</string>
+    <string name="live_tracking">Live Route Tracking</string>
+    <string name="report_complaint">Report Grievance / Missed Pickup</string>
+    <string name="violations_and_fines">Violations &amp; Fine Notices</string>
+    <string name="no_active_fines">Zero active violations. Good segregation score!</string>
+    <string name="pay_fine_now">Pay ₹100 Fine Online</string>
+    <string name="download_receipt">Download Receipt</string>
+    
+    <!-- Worker Portal -->
+    <string name="worker_title">Ward Collection Route</string>
+    <string name="start_route">Start Collection Route</string>
+    <string name="end_route">End Route</string>
+    <string name="route_active">Route Active — GPS Broadcasting</string>
+    <string name="route_inactive">Off Duty — GPS Disconnected for Privacy</string>
+    <string name="privacy_notice">Worker Privacy Safeguard: GPS coordinates are strictly broadcasted only during active route duty hours.</string>
+    <string name="mark_collected">1. Mark Waste Collected</string>
+    <string name="mark_not_segregated">2. Flag Improper Segregation</string>
+    <string name="mandatory_photo_required">Mandatory photo proof required for audit</string>
+    <string name="incentive_balance">Incentive Balance</string>
+    <string name="incentive_explanation">Sanitation champions receive 40% (₹40) direct transfer upon fine clearance</string>
+    
+    <!-- Admin Portal -->
+    <string name="admin_title">Municipal Sanitation Command</string>
+    <string name="kpi_customers">Total Households</string>
+    <string name="kpi_active_workers">Active Workers</string>
+    <string name="kpi_completed">Completed Pickups</string>
+    <string name="kpi_missed">Missed Collections</string>
+    <string name="kpi_violations">Flagged Violations</string>
+    <string name="kpi_fines_collected">Fines Collected</string>
+    <string name="kpi_incentives">Worker Incentives</string>
+    <string name="kpi_grievances">Grievances</string>
+    <string name="audit_queue">Photo Evidence Audit Queue</string>
+    <string name="approve_fine">Approve Fine (₹100)</string>
+    <string name="reject_report">Reject Report</string>
+    
+    <!-- SMS Outbox -->
+    <string name="sms_outbox">Dispatched SMS Outbox</string>
+    <string name="sms_sent">Sent</string>
+    <string name="close">Close</string>
+</resources>

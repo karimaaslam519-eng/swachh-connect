@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        android:translateX="-10.8"
+        android:translateY="-10.8">
+        <!-- Recycling Emblem / Swachh Icon -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,34L62,48H56V62H52V48H46L54,34Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M66,66L58,52L62,50L72,62L68,68L56,68L58,64H66L66,66Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M42,66L50,52L46,50L36,62L40,68L52,68L50,64H42L42,66Z" />
+        <path
+            android:fillColor="#D1FAE5"
+            android:pathData="M54,48m-8,0a8,8 0 1,0 16,0a8,8 0 1,0 -16,0" />
+    </group>
+</vector>

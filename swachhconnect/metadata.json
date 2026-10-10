@@ -1,0 +1,6 @@
+{
+  "name": "SwachhConnect",
+  "description": "Native Android app (Kotlin & Jetpack Compose) for municipal waste collection, segregation inspection, warning/fine system, and worker incentives.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
